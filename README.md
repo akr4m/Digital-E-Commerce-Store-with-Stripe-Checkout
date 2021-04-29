@@ -4,14 +4,14 @@ Demo Project for A Digital E-Commerce Store with Stripe Checkout
 
 ### Controllers
 
-- [CartController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/App/Http/Controllers/CartController)
-- [HomeController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/App/Http/Controllers/HomeController)
-- [OrderController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/App/Http/Controllers/OrderController)
-- [ProductController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/App/Http/Controllers/ProductController)
-- [WebhookController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/App/Http/Controllers/WebhookController)
-- [CheckoutController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/App/Http/Controllers/CheckoutController)
-- [CartProductController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/App/Http/Controllers/CartProductController)
-- [ProductDownloadController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/App/Http/Controllers/ProductDownloadController)
+- [CartController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/app/Http/Controllers/CartController.php)
+- [HomeController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/app/Http/Controllers/HomeController.php)
+- [OrderController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/app/Http/Controllers/OrderController.php)
+- [ProductController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/app/Http/Controllers/ProductController.php)
+- [WebhookController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/app/Http/Controllers/WebhookController.php)
+- [CheckoutController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/app/Http/Controllers/CheckoutController.php)
+- [CartProductController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/app/Http/Controllers/CartProductController.php)
+- [ProductDownloadController](https://github.com/akr4m/Digital-E-Commerce-Store-with-Stripe-Checkout/blob/main/app/Http/Controllers/ProductDownloadController.php)
 
 ### Web Routes
 
